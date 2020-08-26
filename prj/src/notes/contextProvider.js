@@ -29,3 +29,4 @@ const ContextObject = createContext();
 </ContextObject.Provider>;
 
 // Q: What does the Consumer component do?
+// - As the Provider function provides the data, the context Consumer method consumes and returns the values provided by the Provider
